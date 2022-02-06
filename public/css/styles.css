@@ -1,0 +1,130 @@
+
+body {
+  background-color: #E8ECEF;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+
+.logo{
+  /* safesteps logo v2 2 */
+
+position: absolute;
+width: 536px;
+height: 301px;
+left: -88px;
+top: 225px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 31.66%;
+right: 24.73%;
+top: 9.42%;
+bottom: 13.05%;
+
+background: #DBC1DD;
+
+
+/* Vector */
+
+position: absolute;
+left: 31.66%;
+right: 24.73%;
+top: 9.42%;
+bottom: 13.05%;
+
+background: #DBC1DD;
+
+
+/* Vector */
+
+position: absolute;
+left: 53.48%;
+right: 34.41%;
+top: 24.88%;
+bottom: 28.52%;
+
+background: #A478B5;
+border: 3px solid #A478B5;
+
+
+/* Vector */
+
+position: absolute;
+left: 53.37%;
+right: 34.17%;
+top: 51.36%;
+bottom: 43.8%;
+
+background: #DBC1DD;
+transform: matrix(0.95, 0.31, -0.31, 0.95, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 41.34%;
+right: 46.54%;
+top: 24.88%;
+bottom: 28.52%;
+
+background: #F5E6F1;
+border: 3px solid #F5E6F1;
+
+
+/* Vector */
+
+position: absolute;
+left: 54.42%;
+right: 33.12%;
+top: 55.95%;
+bottom: 39.21%;
+
+background: #DBC1DD;
+transform: matrix(-0.95, 0.31, -0.31, -0.95, 0, 0);
+
+
+/* Group */
+
+position: absolute;
+left: 47.37%;
+right: 40.51%;
+top: 45.3%;
+bottom: 35.63%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 47.37%;
+right: 46.47%;
+top: 45.3%;
+bottom: 35.63%;
+
+background: #DBC1DD;
+
+
+/* Vector */
+
+position: absolute;
+left: 53.44%;
+right: 40.51%;
+top: 45.3%;
+bottom: 35.63%;
+
+background: #DBC1DD;
+
+}
